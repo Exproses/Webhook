@@ -1,0 +1,1 @@
+$ ./discord.sh --webhook-url="https://discord.com/api/webhooks/1078583606366179379/bPbB5qZFJ7DEIO2ufJ10vFNgtgwawyqGcY061z1-aKsvwn36QfCZQHDj4QMT7IA2UBcA" --text "Hello, world!"
